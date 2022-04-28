@@ -1,7 +1,8 @@
 .number{
   width: 10rem;
   height: 3rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  margin-top: 0.5rem;
   padding-left:1rem;
   background-color: #f3f4f6;
   border: none;
